@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "G1ANT.Addon.Flipkart", "G1ANT.Addon.Flipkart.csproj", "{F6720FC1-E8D4-4880-853C-2EA2961FCA6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6720FC1-E8D4-4880-853C-2EA2961FCA6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6720FC1-E8D4-4880-853C-2EA2961FCA6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6720FC1-E8D4-4880-853C-2EA2961FCA6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6720FC1-E8D4-4880-853C-2EA2961FCA6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {646ABDF5-A773-4718-A0B3-7E98704CA798}
+	EndGlobalSection
+EndGlobal
